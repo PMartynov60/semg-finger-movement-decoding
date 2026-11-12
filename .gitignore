@@ -1,0 +1,9 @@
+# NinaPro data are downloaded by the notebook and never committed
+data/
+*.mat
+*.zip
+
+# Python and Jupyter clutter
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
